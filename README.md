@@ -4,8 +4,6 @@
   Saya Fokus pada pengembangan web dan aplikasi mobile.
 </p>
 
----
-
 ### 👨‍💻 Tentang Saya
 
 - 🌐 Tertarik pada pengembangan aplikasi web.
