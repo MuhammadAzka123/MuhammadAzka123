@@ -42,7 +42,3 @@
 - Mempelajari dan mengembangkan aplikasi web.
 - Mempelajari dan mengembangkan aplikasi mobile.
 - Mengeksplorasi teknologi dan mencoba berbagai ide baru.
-
-### 🎮 Di Luar Coding
-
-Selain dunia teknologi, saya juga suka bermain game, mengikuti perkembangan komputer, dan travelling.
