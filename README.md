@@ -1,7 +1,7 @@
-<h1 align="center">Halo! 👋</h1>
+<h1>Halo! 👋</h1>
 
-<p align="center">
-  Fokus pada pengembangan web dan aplikasi mobile.
+<p>
+  Saya Fokus pada pengembangan web dan aplikasi mobile.
 </p>
 
 ---
